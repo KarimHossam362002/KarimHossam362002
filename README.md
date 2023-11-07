@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Mohamed+Abdalgader+;A+CS+student+%F0%9F%92%BB;Nice+to+see+you" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Karim+Hossam+;A+Computer Science+student+%F0%9F%92%BB;Nice+to+see+you;A+passionate+backend+developer+from+Egypt" alt="Typing SVG" />
 </h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<!-- <h3 align="center">A passionate backend developer from Egypt</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimhossam362002&label=Profile%20views&color=0e75b6&style=flat" alt="karimhossam362002" /> </p>
 
