@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimhossam362002&label=Profile%20views&color=0e75b6&style=flat" alt="karimhossam362002" /> </p>
 
-- 🔭 I’m currently working on [Tazkarti](https://github.com/KarimHossam362002/tazkarti)
+- 🔭 I’m currently working on [E-commerce](https://github.com/KarimHossam362002/E-commerce)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on [Bookstore](https://github.com/KarimHossam362002/bookstore)
 
 - 📫 How to reach me **karim.h.elsayed02@gmail.com**
 
