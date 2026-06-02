@@ -33,9 +33,6 @@
   <a href="https://www.hackerrank.com/profile/karim_h_elsayed1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://twitter.com/KarimHossam3602" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </p>
 
 ---
