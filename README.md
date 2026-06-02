@@ -11,10 +11,10 @@
 ---
 
 ### 💫 About Me
-* 🎓 **Education:** B.Sc. in Computer Systems from Ain Shams University (Faculty of Computer and Information Sciences)[cite: 1].
-* 🛠️ **Focus:** Building highly scalable software solutions, distributed architectures, microservices, and AI-integrated production systems[cite: 1].
-* ⚡ **Interests:** Smart mobility, real-time architectures, event-driven systems, and cloud-native infrastructure[cite: 1].
-* 📬 **Reach Me:** [karim.h.elsayed02@gmail.com](mailto:karim.h.elsayed02@gmail.com)[cite: 1]
+* 🎓 **Education:** B.Sc. in Computer Systems from Ain Shams University (Faculty of Computer and Information Sciences).
+* 🛠️ **Focus:** Building highly scalable software solutions, distributed architectures, microservices, and AI-integrated production systems.
+* ⚡ **Interests:** Smart mobility, real-time architectures, event-driven systems, and cloud-native infrastructure.
+* 📬 **Reach Me:** [karim.h.elsayed02@gmail.com](mailto:karim.h.elsayed02@gmail.com)
 
 ---
 
@@ -66,24 +66,24 @@
 
 ### 📂 Featured Engineering Projects
 
-* **🤖 AI Violence Detection System (Graduation Project)**[cite: 1]
-  * Built a full-stack automated surveillance framework parsing real-time inference using YOLO and deep-learning temporal models[cite: 1].
-  * Engineered isolated microservices coupled with automated incident reporting pipelines and Docker Compose multi-service deployments[cite: 1].
-  * *Tech:* FastAPI, Flask, Laravel, Python, YOLO, Docker[cite: 1].
+* **🤖 AI Violence Detection System (Graduation Project)**
+  * Built a full-stack automated surveillance framework parsing real-time inference using YOLO and deep-learning temporal models.
+  * Engineered isolated microservices coupled with automated incident reporting pipelines and Docker Compose multi-service deployments.
+  * *Tech:* FastAPI, Flask, Laravel, Python, YOLO, Docker.
 
-* **🎫 Event-Driven Customer Support Ticketing System**[cite: 1]
-  * Designed a decoupled microservices architecture handling asynchronous processing using Apache Kafka across distinct business entities[cite: 1].
-  * Orchestrated system clusters using Kubernetes (Minikube) and structured distributed tracing/observability using Prometheus and Grafana[cite: 1].
-  * *Tech:* FastAPI, Docker, Kubernetes, Apache Kafka, PostgreSQL, Prometheus, Grafana[cite: 1].
+* **🎫 Event-Driven Customer Support Ticketing System**
+  * Designed a decoupled microservices architecture handling asynchronous processing using Apache Kafka across distinct business entities.
+  * Orchestrated system clusters using Kubernetes (Minikube) and structured distributed tracing/observability using Prometheus and Grafana.
+  * *Tech:* FastAPI, Docker, Kubernetes, Apache Kafka, PostgreSQL, Prometheus, Grafana.
 
-* **🎯 Dual-Approach Shooting Target Scoring System**[cite: 1]
-  * Created an advanced computer vision platform combining traditional algorithms (Hough Transform, morphology) with deep learning recognition networks (YOLOv2)[cite: 1].
-  * Built an integrated GUI interface processing live video arrays alongside static file configurations[cite: 1].
-  * *Tech:* MATLAB, Computer Vision, YOLOv2, Image Processing[cite: 1].
+* **🎯 Dual-Approach Shooting Target Scoring System**
+  * Created an advanced computer vision platform combining traditional algorithms (Hough Transform, morphology) with deep learning recognition networks (YOLOv2).
+  * Built an integrated GUI interface processing live video arrays alongside static file configurations.
+  * *Tech:* MATLAB, Computer Vision, YOLOv2, Image Processing.
 
-* **🏁 Real-Time Sports Scorer Platform**[cite: 1]
-  * Architected a high-throughput live streaming scoring mechanism parsing high-velocity data layers[cite: 1].
-  * *Tech:* FastAPI, Apache Kafka, Redis[cite: 1].
+* **🏁 Real-Time Sports Scorer Platform**
+  * Architected a high-throughput live streaming scoring mechanism parsing high-velocity data layers.
+  * *Tech:* FastAPI, Apache Kafka, Redis.
 
 ---
 
