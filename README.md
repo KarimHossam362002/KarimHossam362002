@@ -1,19 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Karim+Hossam+;A+Computer+Science+student+%F0%9F%92%BB;Nice+to+see+you;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Karim+Hossam+;A+Software+Engineer+%F0%9F%92%BB;Nice+to+see+you;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karimhossam362002&label=Profile%20views&color=0e75b6&style=flat-square" alt="karimhossam362002" /> 
 </p>
 
-<h3 align="center">A passionate Backend & DevOps Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Backend & Distributed Systems Engineer from Egypt 🇪🇬</h3>
 
 ---
 
 ### 💫 About Me
-* 🎓 **Education:** Fourth-year Computer Science Senior doing deep dives into Software Engineering.
-* 🛠️ **Focus:** Building robust backend architectures, diving into DevOps, and exploring AI/Computer Vision solutions.
-* 📬 **Reach Me:** [karim.h.elsayed02@gmail.com](mailto:karim.h.elsayed02@gmail.com)
+* 🎓 **Education:** B.Sc. in Computer Systems from Ain Shams University (Faculty of Computer and Information Sciences)[cite: 1].
+* 🛠️ **Focus:** Building highly scalable software solutions, distributed architectures, microservices, and AI-integrated production systems[cite: 1].
+* ⚡ **Interests:** Smart mobility, real-time architectures, event-driven systems, and cloud-native infrastructure[cite: 1].
+* 📬 **Reach Me:** [karim.h.elsayed02@gmail.com](mailto:karim.h.elsayed02@gmail.com)[cite: 1]
 
 ---
 
@@ -39,22 +40,50 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Stack & Toolkit
 
-#### 🚀 Core & Backend
+#### 🚀 Backend Frameworks & Core Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,php,laravel,mysql,sqlite,oracle" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,php,laravel,cpp,java,cs" alt="Backend & Languages" />
 </p>
 
-#### ⚙️ DevOps & Environment
+#### ⚙️ Cloud, DevOps & Event Streaming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,git,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,git,prometheus,grafana,podman" alt="DevOps & Infrastructure" />
+</p>
+
+#### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases" />
 </p>
 
 #### 🎨 Frontend Base
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend" />
 </p>
+
+---
+
+### 📂 Featured Engineering Projects
+
+* **🤖 AI Violence Detection System (Graduation Project)**[cite: 1]
+  * Built a full-stack automated surveillance framework parsing real-time inference using YOLO and deep-learning temporal models[cite: 1].
+  * Engineered isolated microservices coupled with automated incident reporting pipelines and Docker Compose multi-service deployments[cite: 1].
+  * *Tech:* FastAPI, Flask, Laravel, Python, YOLO, Docker[cite: 1].
+
+* **🎫 Event-Driven Customer Support Ticketing System**[cite: 1]
+  * Designed a decoupled microservices architecture handling asynchronous processing using Apache Kafka across distinct business entities[cite: 1].
+  * Orchestrated system clusters using Kubernetes (Minikube) and structured distributed tracing/observability using Prometheus and Grafana[cite: 1].
+  * *Tech:* FastAPI, Docker, Kubernetes, Apache Kafka, PostgreSQL, Prometheus, Grafana[cite: 1].
+
+* **🎯 Dual-Approach Shooting Target Scoring System**[cite: 1]
+  * Created an advanced computer vision platform combining traditional algorithms (Hough Transform, morphology) with deep learning recognition networks (YOLOv2)[cite: 1].
+  * Built an integrated GUI interface processing live video arrays alongside static file configurations[cite: 1].
+  * *Tech:* MATLAB, Computer Vision, YOLOv2, Image Processing[cite: 1].
+
+* **🏁 Real-Time Sports Scorer Platform**[cite: 1]
+  * Architected a high-throughput live streaming scoring mechanism parsing high-velocity data layers[cite: 1].
+  * *Tech:* FastAPI, Apache Kafka, Redis[cite: 1].
 
 ---
 
